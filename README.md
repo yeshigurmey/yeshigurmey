@@ -9,7 +9,7 @@ to learn by building things from scratch, like compilers and trading tools, so I
 how they work under the hood. Before university I tutored Grade 12 students in math and
 computer science, and I still enjoy explaining technical ideas clearly.
 
-🔭 Currently looking for **Winter 2027 co-op** opportunities in software engineering or quant.
+🔭 Currently looking for **Summer 2027 co-op** opportunities in software engineering or quant.
 
 ## Tech
 C++ · Python · JavaScript/React · SQL · Git
